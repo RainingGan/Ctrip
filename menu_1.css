@@ -1,0 +1,5 @@
+.main .menu1 {
+    grid-area: 3/2/4/3;
+    list-style: none;
+    display: grid;
+    grid: 50px / 53px 62px 67px 67px 67px 67px 67px 90px 63px 63px 63px 78px 78px 63px 63px 63px 63px 60px
