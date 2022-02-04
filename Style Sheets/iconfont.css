@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 3165798 */
+  src: url('//at.alicdn.com/t/font_3165798_37ukf6r75xp.woff2?t=1643885595379') format('woff2'),
+    url('//at.alicdn.com/t/font_3165798_37ukf6r75xp.woff?t=1643885595379') format('woff'),
+    url('//at.alicdn.com/t/font_3165798_37ukf6r75xp.ttf?t=1643885595379') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tri:before {
+  content: '\e79b';
+}
+
+.icon-shield:before {
+  content: '\e800';
+}
+
+.icon-diamond:before {
+  content: '\e622';
+}
+
+.icon-car:before {
+  content: '\e63f';
+}
+
+.icon-flight:before {
+  content: '\e907';
+}
+
+.icon-Building:before {
+  content: '\e601';
+}
+
+.icon-wifi:before {
+  content: '\e8c1';
+}
+
+.icon-train:before {
+  content: '\e9af';
+}
+
+.icon-pavilion:before {
+  content: '\e7b0';
+}
+
+.icon-earth:before {
+  content: '\ebce';
+}
+
+.icon-disable:before {
+  content: '\e837';
+}
+
+.icon-global:before {
+  content: '\e632';
+}
+
+.icon-message:before {
+  content: '\e6b5';
+}
+
+.icon-wechat:before {
+  content: '\e600';
+}
+
+.icon-phone:before {
+  content: '\e678';
+}
+
+.icon-search:before {
+  content: '\e67d';
+}
